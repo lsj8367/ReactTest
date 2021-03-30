@@ -2,4 +2,4 @@
 
 ### TodoList 구현하기
 
-![프로젝트 가기]("https://lsj8367.github.io/ReactTest")
+[프로젝트 가기]("https://lsj8367.github.io/ReactTest")
